@@ -13,6 +13,7 @@ The repository is organized into folders, each representing a specific day of th
 - Days 61 - 70: File Handling
 - Days 71 - 80: Python OOP
 - Days 81 - 100: Others or Combination of All
+# Navigate
 
 Navigate to the desired day's folder to view the exercises and solutions.
 
