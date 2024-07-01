@@ -1,18 +1,18 @@
-100 Days Coding Challenge in Python
+# 100 Days Coding Challenge in Python
 Welcome to my 100 Days Coding Challenge in Python repository! This repository contains a collection of Python exercises and projects that I completed over the course of 100 days. The goal of this challenge is to enhance my Python programming skills by solving a variety of problems and working on different aspects of Python development.
 
-Repository Structure
+# Repository Structure
 The repository is organized into folders, each representing a specific day of the challenge. Each folder contains Python scripts that correspond to the exercises for that day. The challenge is structured as follows:
 
-Days 1 - 5: Basics
-Days 6 - 15: Conditional Statements
-Days 16 - 25: Loops
-Days 26 - 30: Strings
-Days 31 - 50: Python Data Structures (Lists, Tuples, Sets, Dictionaries)
-Days 51 - 60: Functions
-Days 61 - 70: File Handling
-Days 71 - 80: Python OOP
-Days 81 - 100: Others or Combination of All
+- Days 1 - 5: Basics
+- Days 6 - 15: Conditional Statements
+- Days 16 - 25: Loops
+- Days 26 - 30: Strings
+- Days 31 - 50: Python Data Structures (Lists, Tuples, Sets, Dictionaries)
+- Days 51 - 60: Functions
+- Days 61 - 70: File Handling
+- Days 71 - 80: Python OOP
+- Days 81 - 100: Others or Combination of All
 
 Navigate to the desired day's folder to view the exercises and solutions.
 
