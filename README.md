@@ -25,8 +25,8 @@ Run the Python scripts using your preferred Python environment. For example:
 
 - Run the Code: Explore the individual Python scripts in each section to see examples and explanations.
 
-- Acknowledgements
+# Acknowledgements
 This challenge is inspired by the 100 Days of Code initiative. Special thanks to the Python community for providing a wealth of resources and support.
 
-- License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
