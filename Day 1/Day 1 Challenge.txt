@@ -1,0 +1,12 @@
+This is day 1 of my 100 days python challenge and I have to do the following:
+
+1) Write a Python program to print "Hello, World!".
+2) Write a program to add two numbers and print the result.
+3) Write a program to calculate the area of a rectangle.
+
+
+Starting a challenge without the hello World program will not be an abomination to the world of programming.
+And the others are just basics.
+I am so happy to start this, and I believe that at the end of it, I would be able to say I am no longer 
+a beginner in python.
+

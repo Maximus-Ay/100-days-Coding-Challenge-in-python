@@ -34,4 +34,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # Extra
 
+Below are the codes screenshots for my 100 days coding for each day. I officially started on the 1st July 2024
+A way of starting the other half of the year in a better way.
 
+# Day 1:
+- Write a Python program to print "Hello, World!".
+- Write a program to add two numbers and print the result.
+- Write a program to calculate the area of a rectangle.
