@@ -29,9 +29,6 @@ Run the Python scripts using your preferred Python environment. For example:
 # Acknowledgements
 This challenge is inspired by the 100 Days of Code initiative. Special thanks to the Python community for providing a wealth of resources and support.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Extra
 
 Below are the codes screenshots for my 100 days coding for each day. I officially started on the 1st July 2024
@@ -41,17 +38,17 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print "Hello, World!".
 ![alt text](Images/image.png)
 - Write a program to add two numbers and print the result.
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 - Write a program to calculate the area of a rectangle.
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 # Day 2
 - Write a Python program to swap two variables.
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 - Write a program to convert kilometers to miles.
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 - Write a program to check if a number is even or odd.
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 
 
