@@ -45,3 +45,10 @@ A way of starting the other half of the year in a better way.
 - Write a program to calculate the area of a rectangle.
 ![alt text](image-2.png)
 
+# Day 2
+- Write a Python program to swap two variables.
+- Write a program to convert kilometers to miles.
+- Write a program to check if a number is even or odd.
+
+
+
