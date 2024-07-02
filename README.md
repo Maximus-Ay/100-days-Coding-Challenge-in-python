@@ -39,7 +39,7 @@ A way of starting the other half of the year in a better way.
 
 # Day 1:
 - Write a Python program to print "Hello, World!".
-Images/image.png
+![alt text](Images/image.png)
 - Write a program to add two numbers and print the result.
 ![alt text](image-1.png)
 - Write a program to calculate the area of a rectangle.
