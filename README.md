@@ -39,7 +39,7 @@ A way of starting the other half of the year in a better way.
 
 # Day 1:
 - Write a Python program to print "Hello, World!".
-![alt text](image.png)
+Images/image.png
 - Write a program to add two numbers and print the result.
 ![alt text](image-1.png)
 - Write a program to calculate the area of a rectangle.
@@ -47,8 +47,12 @@ A way of starting the other half of the year in a better way.
 
 # Day 2
 - Write a Python program to swap two variables.
+![alt text](image-3.png)
 - Write a program to convert kilometers to miles.
+![alt text](image-4.png)
 - Write a program to check if a number is even or odd.
+![alt text](image-5.png)
+
 
 
 
