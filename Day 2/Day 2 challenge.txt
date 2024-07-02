@@ -1,0 +1,10 @@
+DAY 2
+
+-> So this is my day 2 challenge:
+
+Below is what I am working on
+
+1) Write a Python program to swap two variables.
+2) Write a program to convert kilometers to miles.
+3) Write a program to check if a number is even or odd.
+
