@@ -1,0 +1,4 @@
+Day 3:
+1) Write a Python program to find the square root of a number.
+2) Write a program to calculate the area of a triangle.
+3) Write a program to solve quadratic equations.
