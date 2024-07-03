@@ -36,20 +36,14 @@ A way of starting the other half of the year in a better way.
 
 # Day 1:
 - Write a Python program to print "Hello, World!".
-![alt text](Images/image.png)
 - Write a program to add two numbers and print the result.
-![alt text](Images/image-1.png)
 - Write a program to calculate the area of a rectangle.
-![alt text](Images/image-2.png)
 
 # Day 2
 - Write a Python program to swap two variables.
-![alt text](Images/image-3.png)
 - Write a program to convert kilometers to miles.
-![alt text](Images/image-4.png)
 - Write a program to check if a number is even or odd.
-![alt text](Images/image-5.png)
-
+- 
 # Day 3
 - Write a Python program to find the square root of a number.
 - Write a program to calculate the area of a triangle.
