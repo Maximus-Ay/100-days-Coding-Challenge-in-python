@@ -13,7 +13,7 @@ s = a + b + c
 
 Area = math.sqrt(s*(s-a)*(s-b)*(s-c))
 decimal_places = int(input("Enter the number of decimal places: "))
-print(f"Area of triangle with sides a = {a}, b = {b}, and c = {c} is: {Area:.{decimal_places}f} units^2")
+print(f"Area of triangle with sides a = {a}, b = {b}, and c = {c} is: {Area:.{decimal_places}f} units\u00B2")
 
 '''
     NOTE : This area of a triangle is calculated based on the mathematical concept of Heron's formula. 

@@ -14,4 +14,4 @@ width = float(input("Enter the width of the rectangle: "))
 
 Area = length * width
 
-print(f"The Area of the reactangle is: {Area} units^2")
+print(f"The Area of the reactangle is: {Area} units\u00B2")
