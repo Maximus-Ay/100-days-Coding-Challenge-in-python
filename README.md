@@ -50,6 +50,12 @@ A way of starting the other half of the year in a better way.
 - Write a program to check if a number is even or odd.
 ![alt text](Images/image-5.png)
 
+# Day 3
+- Write a Python program to find the square root of a number.
+- Write a program to calculate the area of a triangle.
+- Write a program to solve quadratic equations.
+
+
 
 
 
