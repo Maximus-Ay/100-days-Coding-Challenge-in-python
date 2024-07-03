@@ -8,7 +8,7 @@ import time # Just to play with output and make it sound cool
 from printEquation import printEquation # This is used for my printEquation method I created.
 import os  # to clear the screen while solving
 
-a = float(input("Enter the coefficient of x^2 in the equation:  "))
+a = float(input("Enter the coefficient of x\u00B2 in the equation:  "))
 b = float(input("Enter the coefficient of x in the equation: "))
 c = float(input("Enter the constant term in the equation: "))
 
