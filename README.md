@@ -49,6 +49,11 @@ A way of starting the other half of the year in a better way.
 - Write a program to calculate the area of a triangle.
 - Write a program to solve quadratic equations.
 
+# Day 4
+- Write a Python program to find the largest of three numbers.
+- Write a program to calculate the factorial of a number.
+- Write a program to generate a random number between 1 and 100.
+
 
 
 
