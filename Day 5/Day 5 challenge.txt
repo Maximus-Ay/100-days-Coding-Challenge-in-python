@@ -1,0 +1,6 @@
+Today is the 5th of July 2024 and it marks my Day 5 of my 100 days coding challenge in python.
+
+Today I will
+- Write a Python program to convert Celsius to Fahrenheit.
+- Write a program to display the multiplication table of a given number.
+- Write a program to find the ASCII value of a character.
