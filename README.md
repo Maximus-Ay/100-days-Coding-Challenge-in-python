@@ -59,6 +59,9 @@ A way of starting the other half of the year in a better way.
 - Write a program to display the multiplication table of a given number.
 - Write a program to find the ASCII value of a character.
 
+# Day 6 (6th July 2024)
+- Write a Python program to check if a number is positive, negative, or zero.
+- Write a program to check if a year is a leap year.
 
 
 
