@@ -1,0 +1,6 @@
+Today is the 6th of July 2024, it marks Day 6 of my 100 days coding challenge
+As from Today to day 15 I will be dealing mostly with conditional statements in Python.
+
+So Today I will:
+-> Write a Python program to check if a number is positive, negative, or zero.
+-> Write a program to check if a year is a leap year.
