@@ -63,6 +63,9 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to check if a number is positive, negative, or zero.
 - Write a program to check if a year is a leap year.
 
+# Day 7 (7th July 2024)
+- Write a Python program to check if a character is a vowel or consonant.
+- Write a program to check if a number is prime.
 
 
 
