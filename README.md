@@ -67,5 +67,8 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to check if a character is a vowel or consonant.
 - Write a program to check if a number is prime.
 
+# Day 8 (8th July 2024)
+- Write a Python program to check if a string is a palindrome.
+- Write a program to find the largest of three numbers using nested if statements.
 
 
