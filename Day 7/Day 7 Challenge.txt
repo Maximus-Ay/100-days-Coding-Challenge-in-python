@@ -1,0 +1,6 @@
+Today is the 7th July 2024 and yeah I know its a Sunday
+I went to church today, hope you guys did as well, 
+but its time for me to code
+Today I will:
+1) Write a Python program to check if a character is a vowel or consonant.
+2) Write a program to check if a number is prime.
