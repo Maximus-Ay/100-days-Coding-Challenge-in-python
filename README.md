@@ -71,4 +71,9 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to check if a string is a palindrome.
 - Write a program to find the largest of three numbers using nested if statements.
 
+# Day 9 (9th July 2024)
+- Write a Python program to print all prime numbers between two given numbers.
+- Write a program to calculate the sum of all numbers in a given range.
+
+
 
