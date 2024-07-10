@@ -1,0 +1,4 @@
+Hey Guys! This is day 10 of my challenge, we are the 10th July 2024
+And Today I will be doing
+- Write a Python program to display the Fibonacci sequence up to n-th term.
+- Write a program to check if a number is an Armstrong number.
