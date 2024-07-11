@@ -1,0 +1,8 @@
+Hey Guys today is the 11th July 2024
+And Day 11 of my 100 days coding challenge in python, 
+to help me become a better developer.
+
+Today I will:
+- Write a Python program to find the factorial of a number using recursion.
+- Write a program to count the number of digits in a number.
+
