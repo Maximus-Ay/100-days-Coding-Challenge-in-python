@@ -1,0 +1,6 @@
+Today is the 12th July 2024
+It is Day 12 of my 100 days coding challenge in python
+
+Today I will:
+- Write a Python program to reverse a number.
+- Write a program to check if a number is a perfect number.

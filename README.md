@@ -83,5 +83,10 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to find the factorial of a number using recursion.
 - Write a program to count the number of digits in a number.
 
+12. Day 12 (12th July 2024)
+- Write a Python program to reverse a number.
+- Write a program to check if a number is a perfect number.
+
+
 
 
