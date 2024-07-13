@@ -87,6 +87,10 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to reverse a number.
 - Write a program to check if a number is a perfect number.
 
+13. Day 13 (13th July 2024)
+- Write a Python program to check if a number is a strong number.
+- Write a program to print the first n natural numbers.
+
 
 
 
