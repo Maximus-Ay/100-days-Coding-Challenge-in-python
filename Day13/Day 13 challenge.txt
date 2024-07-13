@@ -1,0 +1,6 @@
+Hey Guys! We are not skipping a day
+Today is my day 13 and I will: 
+
+- Write a Python program to check if a number is a strong number.
+- Write a program to print the first n natural numbers.
+
