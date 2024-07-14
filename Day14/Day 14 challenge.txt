@@ -1,0 +1,7 @@
+Hey guys Today is day 14th of my 100 days coding challenge.
+One thing to note is that never skip a day, and if you happen to skip one, 
+don't skip two, cause it becomes a habit then.
+
+Today I will
+- Write a Python program to print all factors of a number.
+- Write a program to find the sum of the digits of a number.

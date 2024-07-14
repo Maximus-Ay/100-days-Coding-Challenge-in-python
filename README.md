@@ -91,6 +91,11 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to check if a number is a strong number.
 - Write a program to print the first n natural numbers.
 
+14. Day 14 (14th July 2024)
+- Write a Python program to print all factors of a number.
+- Write a program to find the sum of the digits of a number.
+
+
 
 
 
