@@ -95,6 +95,12 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print all factors of a number.
 - Write a program to find the sum of the digits of a number.
 
+15. Day 15 (15th July 2024)
+- Write a Python program to check if a number is a Harshad number.
+- Write a program to print the sum of the first n even numbers.
+
+
+
 
 
 

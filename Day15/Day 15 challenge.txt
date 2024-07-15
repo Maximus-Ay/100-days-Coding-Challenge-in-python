@@ -1,0 +1,7 @@
+Hey Guys! Today is Monday the 15th of July
+Today is my day 15 of my challenge
+NEVER SKIP A DAY!
+
+Today I will:
+- Write a Python program to check if a number is a Harshad number.
+- Write a program to print the sum of the first n even numbers.
