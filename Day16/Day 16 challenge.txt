@@ -1,0 +1,5 @@
+Today is the 16th day of my challenge and the beginning of loops
+
+So Today I will:
+- Write a Python program to print all natural numbers from 1 to n using a while loop.
+- Write a program to print all odd numbers between 1 and 100.
