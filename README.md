@@ -99,6 +99,11 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to check if a number is a Harshad number.
 - Write a program to print the sum of the first n even numbers.
 
+16. Day 16 (16th of July 2024)
+- Write a Python program to print all natural numbers from 1 to n using a while loop.
+- Write a program to print all odd numbers between 1 and 100.
+
+
 
 
 
