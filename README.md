@@ -103,6 +103,11 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print all natural numbers from 1 to n using a while loop.
 - Write a program to print all odd numbers between 1 and 100.
 
+17. Day 17 (17th of July 2024)
+- Write a Python program to print all even numbers between 1 and 100.
+- Write a program to find the sum of all natural numbers between 1 and n using a for loop.
+
+
 
 
 

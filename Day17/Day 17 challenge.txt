@@ -1,0 +1,6 @@
+Hello Guys!
+It's me again and today marks day 17 of my 100 days coding Challenge in Python
+
+So Today I will
+- Write a Python program to print all even numbers between 1 and 100.
+- Write a program to find the sum of all natural numbers between 1 and n using a for loop.
