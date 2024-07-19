@@ -107,6 +107,11 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print all even numbers between 1 and 100.
 - Write a program to find the sum of all natural numbers between 1 and n using a for loop.
 
+18. Day 18 (18th July 2024)
+- Write a Python program to print the multiplication table of a given number using a loop.
+- Write a program to count the number of digits in a number using a loop.
+
+
 
 
 
