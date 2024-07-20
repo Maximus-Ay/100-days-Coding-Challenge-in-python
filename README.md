@@ -34,30 +34,91 @@ This challenge is inspired by the 100 Days of Code initiative. Special thanks to
 Below are the codes screenshots for my 100 days coding for each day. I officially started on the 1st July 2024
 A way of starting the other half of the year in a better way.
 
-# Day 1 (1st July 2024):
+1. Day 1 (1st July 2024):
 - Write a Python program to print "Hello, World!".
 - Write a program to add two numbers and print the result.
 - Write a program to calculate the area of a rectangle.
 
-# Day 2 (2nd July 2024)
+2. Day 2 (2nd July 2024)
 - Write a Python program to swap two variables.
 - Write a program to convert kilometers to miles.
 - Write a program to check if a number is even or odd.
 - 
-# Day 3 (3rd July 2024)
+3. Day 3 (3rd July 2024)
 - Write a Python program to find the square root of a number.
 - Write a program to calculate the area of a triangle.
 - Write a program to solve quadratic equations.
 
-# Day 4 (4th July 2024)
+4. Day 4 (4th July 2024)
 - Write a Python program to find the largest of three numbers.
 - Write a program to calculate the factorial of a number.
 - Write a program to generate a random number between 1 and 100.
 
-# Day 5 (5th July 2024)
+5. Day 5 (5th July 2024)
 - Write a Python program to convert Celsius to Fahrenheit.
 - Write a program to display the multiplication table of a given number.
 - Write a program to find the ASCII value of a character.
+
+6. Day 6 (6th July 2024)
+- Write a Python program to check if a number is positive, negative, or zero.
+- Write a program to check if a year is a leap year.
+
+7. Day 7 (7th July 2024)
+- Write a Python program to check if a character is a vowel or consonant.
+- Write a program to check if a number is prime.
+
+8. Day 8 (8th July 2024)
+- Write a Python program to check if a string is a palindrome.
+- Write a program to find the largest of three numbers using nested if statements.
+
+9. Day 9 (9th July 2024)
+- Write a Python program to print all prime numbers between two given numbers.
+- Write a program to calculate the sum of all numbers in a given range.
+
+10. Day 10 (10th July 2024)
+- Write a Python program to display the Fibonacci sequence up to n-th term.
+- Write a program to check if a number is an Armstrong number.
+
+11. Day 11 (11th July 2024)
+- Write a Python program to find the factorial of a number using recursion.
+- Write a program to count the number of digits in a number.
+
+12. Day 12 (12th July 2024)
+- Write a Python program to reverse a number.
+- Write a program to check if a number is a perfect number.
+
+13. Day 13 (13th July 2024)
+- Write a Python program to check if a number is a strong number.
+- Write a program to print the first n natural numbers.
+
+14. Day 14 (14th July 2024)
+- Write a Python program to print all factors of a number.
+- Write a program to find the sum of the digits of a number.
+
+15. Day 15 (15th July 2024)
+- Write a Python program to check if a number is a Harshad number.
+- Write a program to print the sum of the first n even numbers.
+
+16. Day 16 (16th of July 2024)
+- Write a Python program to print all natural numbers from 1 to n using a while loop.
+- Write a program to print all odd numbers between 1 and 100.
+
+17. Day 17 (17th of July 2024)
+- Write a Python program to print all even numbers between 1 and 100.
+- Write a program to find the sum of all natural numbers between 1 and n using a for loop.
+
+18. Day 18 (18th July 2024)
+- Write a Python program to print the multiplication table of a given number using a loop.
+- Write a program to count the number of digits in a number using a loop.
+
+19. Day 19 (19th July 2024)
+- Write a Python program to reverse a number using a while loop.
+- Write a program to find the factorial of a number using a loop.
+
+
+
+
+
 
 
 

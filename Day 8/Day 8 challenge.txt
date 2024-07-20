@@ -1,0 +1,6 @@
+Today is the 8th of July 2024
+So folks We keep going
+
+Today I will:
+- Write a Python program to check if a string is a palindrome.
+- Write a program to find the largest of three numbers using nested if statements.

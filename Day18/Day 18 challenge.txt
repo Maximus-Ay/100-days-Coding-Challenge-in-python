@@ -1,0 +1,7 @@
+Today is the 18th July 2024
+I almost didn't respect my consistency due to conditions beyond my control
+But Here I am 
+consistency is the key 
+and So Today I will:
+- Write a Python program to print the multiplication table of a given number using a loop.
+- Write a program to count the number of digits in a number using a loop.

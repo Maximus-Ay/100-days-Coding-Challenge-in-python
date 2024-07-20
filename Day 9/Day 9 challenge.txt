@@ -1,0 +1,6 @@
+Hey guys we are the 9th of July 2024,
+and Let's go,
+Day 9 challenge
+
+- Write a Python program to print all prime numbers between two given numbers.
+- Write a program to calculate the sum of all numbers in a given range.
