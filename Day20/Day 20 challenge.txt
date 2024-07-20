@@ -1,0 +1,4 @@
+Hey guys this is day 20 of my 100 days coding challenge in python. 
+So Today I will
+- Write a Python program to find the sum of the digits of a number using a loop.
+- Write a program to check if a number is a palindrome using a loop.
