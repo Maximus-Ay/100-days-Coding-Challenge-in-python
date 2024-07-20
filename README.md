@@ -111,6 +111,10 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print the multiplication table of a given number using a loop.
 - Write a program to count the number of digits in a number using a loop.
 
+19. Day 19 (19th July 2024)
+- Write a Python program to reverse a number using a while loop.
+- Write a program to find the factorial of a number using a loop.
+
 
 
 
