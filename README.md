@@ -123,6 +123,10 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to print all prime numbers between 1 and 100 using a loop.
 - Write a program to print the Fibonacci sequence up to n-th term using a loop.
 
+22. Day 22 (22nd July 2024)
+- Write a Python program to find the sum of all prime numbers between 1 and 100.
+- Write a program to print the first n Fibonacci numbers using a loop.
+
 
 
 
