@@ -1,0 +1,4 @@
+Today is day 21 of my challenge and I am happy to have made it this far.
+So Today I will
+- Write a Python program to print all prime numbers between 1 and 100 using a loop.
+- Write a program to print the Fibonacci sequence up to n-th term using a loop.
