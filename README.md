@@ -119,6 +119,11 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to find the sum of the digits of a number using a loop.
 - Write a program to check if a number is a palindrome using a loop.
 
+21. Day 21 (21st July 2024)
+- Write a Python program to print all prime numbers between 1 and 100 using a loop.
+- Write a program to print the Fibonacci sequence up to n-th term using a loop.
+
+
 
 
 
