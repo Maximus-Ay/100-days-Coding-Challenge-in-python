@@ -1,0 +1,5 @@
+Hey guys Today marks day 22 of my 100 days coding challenge,
+I am still in the section of loops
+So Today, I will
+- Write a Python program to find the sum of all prime numbers between 1 and 100.
+- Write a program to print the first n Fibonacci numbers using a loop.
