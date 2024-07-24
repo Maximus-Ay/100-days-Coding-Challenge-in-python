@@ -8,4 +8,9 @@
         * * * * * 
 '''
 
-number = int(input("Enter the length of the triangle(dimensions or height): "))
+length = int(input("Enter the length of the triangle(dimensions or height): "))
+for x in range(length):
+    for y in range(x+1):
+        print("*", end=" ")
+    print()
+
