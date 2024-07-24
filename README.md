@@ -134,7 +134,7 @@ A way of starting the other half of the year in a better way.
         * * *
         * * * *
         * * * * * 
-51. Write a program to print the following pattern:
+- Write a program to print the following pattern:
          *
         * *
        * * * 

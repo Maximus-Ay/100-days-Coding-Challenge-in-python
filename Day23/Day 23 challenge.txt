@@ -1,0 +1,15 @@
+Hey guys I'm in day 23 of my challenge and I know that I will keep the consistency
+I have a lot of way to go but i'm almost 25% of the journey
+Today using loops I will
+- Write a Python program to print the following pattern:
+        * 
+        * *
+        * * *
+        * * * *
+        * * * * * 
+- Write a program to print the following pattern:
+         *
+        * *
+       * * * 
+      * * * * 
+     * * * * *
