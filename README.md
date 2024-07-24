@@ -127,6 +127,20 @@ A way of starting the other half of the year in a better way.
 - Write a Python program to find the sum of all prime numbers between 1 and 100.
 - Write a program to print the first n Fibonacci numbers using a loop.
 
+23. Day 23 (23rd July 2024)
+- Write a Python program to print the following pattern:
+        * 
+        * *
+        * * *
+        * * * *
+        * * * * * 
+51. Write a program to print the following pattern:
+         *
+        * *
+       * * * 
+      * * * * 
+     * * * * *
+
 
 
 
