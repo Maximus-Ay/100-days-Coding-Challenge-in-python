@@ -141,6 +141,21 @@ A way of starting the other half of the year in a better way.
       * * * * 
      * * * * *
 
+24. Day 24 (24th July 2024)
+- Write a Python program to print the following pattern:
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5 
+- Write a program to print the following pattern:
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
+
+
 
 
 
