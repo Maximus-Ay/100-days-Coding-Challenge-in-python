@@ -155,6 +155,21 @@ A way of starting the other half of the year in a better way.
 2 1
 1
 
+25. Day 25 (25th July 2024)
+Day 25:
+- Write a Python program to print the following pattern:
+A 
+A B
+A B C
+A B C D
+A B C D E
+- Write a program to print the following pattern:
+E D C B A
+D C B A
+C B A
+B A
+A
+
 
 
 
