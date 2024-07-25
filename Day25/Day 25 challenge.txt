@@ -1,0 +1,17 @@
+Hey guys today is day 25
+This is the end of the series of loops
+for loop, while loop its over today
+So to end it I will do one more pattern program
+Day 25:
+- Write a Python program to print the following pattern:
+A 
+A B
+A B C
+A B C D
+A B C D E
+- Write a program to print the following pattern:
+E D C B A
+D C B A
+C B A
+B A
+A
