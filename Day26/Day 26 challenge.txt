@@ -1,0 +1,7 @@
+So Today is the beginning of new concepts in python,
+We are just 25% done and so we have still much to do.
+Let's go
+We begin Strings in python as from Today
+So Today 26th of July 2024 I will:
+- Write a Python program to count the number of vowels in a string.
+- Write a program to count the number of consonants in a string.
