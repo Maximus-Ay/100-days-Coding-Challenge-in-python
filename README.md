@@ -143,32 +143,36 @@ A way of starting the other half of the year in a better way.
 
 24. Day 24 (24th July 2024)
 - Write a Python program to print the following pattern:
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5 
+        1
+        1 2
+        1 2 3
+        1 2 3 4
+        1 2 3 4 5 
 - Write a program to print the following pattern:
-5 4 3 2 1
-4 3 2 1
-3 2 1
-2 1
-1
+        5 4 3 2 1
+        4 3 2 1
+        3 2 1
+        2 1
+        1
 
 25. Day 25 (25th July 2024)
 Day 25:
 - Write a Python program to print the following pattern:
-A 
-A B
-A B C
-A B C D
-A B C D E
+        A 
+        A B
+        A B C
+        A B C D
+        A B C D E
 - Write a program to print the following pattern:
-E D C B A
-D C B A
-C B A
-B A
-A
+        E D C B A
+        D C B A
+        C B A
+        B A
+        A
+
+26. Day 26 (26th of July 2024)
+- Write a Python program to count the number of vowels in a string.
+- Write a program to count the number of consonants in a string.
 
 
 
