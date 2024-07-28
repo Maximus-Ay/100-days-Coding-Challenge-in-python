@@ -1,0 +1,6 @@
+Today is day 27 of my challenge
+We are in strings
+So Today I will:
+- Write a Python program to count the number of words in a string.
+- Write a program to check if a string is a palindrome.
+
