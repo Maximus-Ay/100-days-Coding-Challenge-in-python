@@ -174,6 +174,12 @@ Day 25:
 - Write a Python program to count the number of vowels in a string.
 - Write a program to count the number of consonants in a string.
 
+27. Day 27 (27th July 2024)
+- Write a Python program to count the number of words in a string.
+- Write a program to check if a string is a palindrome.
+
+
+
 
 
 
