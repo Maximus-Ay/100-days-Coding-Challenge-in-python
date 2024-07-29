@@ -178,6 +178,11 @@ Day 25:
 - Write a Python program to count the number of words in a string.
 - Write a program to check if a string is a palindrome.
 
+28. Day 28 (28th July 2024)
+- Write a Python program to reverse a string.
+- Write a program to find the length of a string without using the built-in len() function.
+
+
 
 
 
