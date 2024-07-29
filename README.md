@@ -182,6 +182,11 @@ Day 25:
 - Write a Python program to reverse a string.
 - Write a program to find the length of a string without using the built-in len() function.
 
+29. Day 29 (29th July 2024)
+- Write a Python program to find the frequency of each character in a string.
+- Write a program to remove all duplicates from a string.
+
+
 
 
 
