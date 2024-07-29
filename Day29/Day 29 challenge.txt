@@ -1,0 +1,4 @@
+This is day 29 of my challenge
+Today I will:
+- Write a Python program to find the frequency of each character in a string.
+- Write a program to remove all duplicates from a string.
