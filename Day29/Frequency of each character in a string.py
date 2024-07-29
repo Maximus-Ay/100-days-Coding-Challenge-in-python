@@ -6,3 +6,17 @@
 
 string = input("Enter the string: ")
 
+characters = {}
+
+for char in string:
+    if char in characters.keys():
+        characters[char] += 1
+    else:
+        characters[char] = 1
+
+for keys,values in characters.items():
+    print(f"{keys} : {values} ")
+    
+
+
+
