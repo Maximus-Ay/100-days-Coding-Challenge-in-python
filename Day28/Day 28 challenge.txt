@@ -1,0 +1,4 @@
+Hey guys today is day 28 of my 100 days coding Challenge
+So Today I will
+- Write a Python program to reverse a string.
+- Write a program to find the length of a string without using the built-in len() function.
