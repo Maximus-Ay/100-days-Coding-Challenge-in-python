@@ -186,6 +186,9 @@ Day 25:
 - Write a Python program to find the frequency of each character in a string.
 - Write a program to remove all duplicates from a string.
 
+30. Day 30 (30rd July 20204)
+- Write a Python program to replace all vowels in a string with a specified character.
+- Write a program to find the first non-repeating character in a string.
 
 
 
