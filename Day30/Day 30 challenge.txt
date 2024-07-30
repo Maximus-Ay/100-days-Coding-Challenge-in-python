@@ -1,0 +1,4 @@
+So I am in day 30 of challenge
+Today I will:
+- Write a Python program to replace all vowels in a string with a specified character.
+- Write a program to find the first non-repeating character in a string.
