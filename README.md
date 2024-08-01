@@ -190,6 +190,11 @@ Day 25:
 - Write a Python program to replace all vowels in a string with a specified character.
 - Write a program to find the first non-repeating character in a string.
 
+31. Day 31 (31st July 2024)
+- Write a Python program to find the largest element in a list.
+- Write a program to find the smallest element in a list.
+
+
 
 
 
