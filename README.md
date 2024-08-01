@@ -194,6 +194,10 @@ Day 25:
 - Write a Python program to find the largest element in a list.
 - Write a program to find the smallest element in a list.
 
+32. Day 32 (1st August 2024)
+- Write a Python program to find the sum of all elements in a list.
+- Write a program to find the average of all elements in a list.
+
 
 
 
