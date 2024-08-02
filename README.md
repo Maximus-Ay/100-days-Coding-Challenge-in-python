@@ -198,6 +198,11 @@ Day 25:
 - Write a Python program to find the sum of all elements in a list.
 - Write a program to find the average of all elements in a list.
 
+33. Day 33 (2nd August 2024)
+- Write a Python program to find the second largest element in a list.
+- Write a program to find the second smallest element in a list.
+
+
 
 
 
