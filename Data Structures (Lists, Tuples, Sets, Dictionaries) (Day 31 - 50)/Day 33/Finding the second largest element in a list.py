@@ -8,3 +8,7 @@ for i in range(size):
     userinput = int(input("Enter an element: "))
     list.append(userinput)
 
+list.sort()
+list.reverse()
+print(f"The second largest element in the list is: {list[1]}")
+
