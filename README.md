@@ -202,6 +202,9 @@ Day 25:
 - Write a Python program to find the second largest element in a list.
 - Write a program to find the second smallest element in a list.
 
+34. Day 34 (3rd August 2024)
+- Write a Python program to remove all duplicates from a list.
+- Write a program to check if a list is empty.
 
 
 
