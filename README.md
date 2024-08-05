@@ -207,8 +207,12 @@ Day 25:
 - Write a program to check if a list is empty.
 
 35. Day 35 (4th August 2024)
--  Write a Python program to clone or copy a list.
--  Write a program to find the common elements between two lists.
+- Write a Python program to clone or copy a list.
+- Write a program to find the common elements between two lists.
+
+36. Day 36 (5th August 2024)
+- Write a Python program to find the difference between two lists.
+- Write a program to find the intersection of two lists.
 
 
 
