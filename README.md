@@ -206,6 +206,10 @@ Day 25:
 - Write a Python program to remove all duplicates from a list.
 - Write a program to check if a list is empty.
 
+35. Day 35 (4th August 2024)
+-  Write a Python program to clone or copy a list.
+-  Write a program to find the common elements between two lists.
+
 
 
 
