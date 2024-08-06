@@ -214,6 +214,10 @@ Day 25:
 - Write a Python program to find the difference between two lists.
 - Write a program to find the intersection of two lists.
 
+37. Day 37 (6th August 2024)
+- Write a Python program to find the union of two lists.
+- Write a program to find the symmetric difference between two lists.
+
 
 
 
