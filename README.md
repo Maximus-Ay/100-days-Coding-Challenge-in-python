@@ -218,6 +218,11 @@ Day 25:
 - Write a Python program to find the union of two lists.
 - Write a program to find the symmetric difference between two lists.
 
+38. Day 38 (7th August 2024)
+- Write a Python program to count the number of elements in a list.
+- Write a program to check if an element is present in a list.
+
+
 
 
 
