@@ -222,6 +222,11 @@ Day 25:
 - Write a Python program to count the number of elements in a list.
 - Write a program to check if an element is present in a list.
 
+39. Day 39 (8th August 2024)
+- Write a Python program to sort a list in ascending order.
+- Write a program to sort a list in descending order.
+
+
 
 
 
