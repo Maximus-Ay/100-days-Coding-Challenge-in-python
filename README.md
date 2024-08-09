@@ -226,6 +226,10 @@ Day 25:
 - Write a Python program to sort a list in ascending order.
 - Write a program to sort a list in descending order.
 
+40. Day 40 (9th August 2024)
+- Write a Python program to find the index of an element in a list.
+- Write a program to find the maximum and minimum elements in a tuple.
+
 
 
 
