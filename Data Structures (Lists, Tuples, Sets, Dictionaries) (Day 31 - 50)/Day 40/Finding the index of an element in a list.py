@@ -8,7 +8,9 @@ for x in range(size):
     userinput = int(input(f"Enter the element {x+1}: "))
     list.append(userinput)
 
-search_element = int(input("Enter the search element: "))
-print(f"Index of element is: {list.index(search_element)}")
-
+try:
+    search_element = int(input("Enter the search element: "))
+    print(f"Index of element is: {list.index(search_element)}")
+except ValueError:
+    print("element is not in the list!")
 
