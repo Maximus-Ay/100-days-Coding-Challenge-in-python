@@ -230,6 +230,10 @@ Day 25:
 - Write a Python program to find the index of an element in a list.
 - Write a program to find the maximum and minimum elements in a tuple.
 
+41. Day 41 (10th August 2024)
+- Write a Python program to find the length of a tuple.
+- Write a program to convert a tuple to a list.
+
 
 
 
