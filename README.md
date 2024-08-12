@@ -234,6 +234,10 @@ Day 25:
 - Write a Python program to find the length of a tuple.
 - Write a program to convert a tuple to a list.
 
+42. Day 42 (11th August 2024)
+- Write a Python program to convert a list to a tuple.
+- Write a program to find the sum of all elements in a tuple.
+
 
 
 
