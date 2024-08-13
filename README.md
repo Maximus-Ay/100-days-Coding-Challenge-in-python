@@ -242,6 +242,11 @@ Day 25:
 - Write a Python program to find the average of all elements in a tuple.
 - Write a program to find the largest element in a tuple.
 
+44. Day 44 (13th August 2024)
+- Write a Python program to find the smallest element in a tuple.
+- Write a program to find the product of all elements in a tuple.
+
+
 
 
 
