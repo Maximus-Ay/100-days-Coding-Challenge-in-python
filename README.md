@@ -246,6 +246,11 @@ Day 25:
 - Write a Python program to find the smallest element in a tuple.
 - Write a program to find the product of all elements in a tuple.
 
+45. Day 45 (14th August 2024)
+- Write a Python program to remove duplicates from a tuple.
+- Write a program to check if an element is present in a tuple.
+
+
 
 
 
