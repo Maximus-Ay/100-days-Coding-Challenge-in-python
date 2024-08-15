@@ -250,10 +250,9 @@ Day 25:
 - Write a Python program to remove duplicates from a tuple.
 - Write a program to check if an element is present in a tuple.
 
-
-
-
-
+46. Day 46 (15th August 2024)
+- Write a Python program to find the length of a set.
+- Write a program to find the maximum and minimum elements in a set.
 
 
 
