@@ -254,6 +254,9 @@ Day 25:
 - Write a Python program to find the length of a set.
 - Write a program to find the maximum and minimum elements in a set.
 
+47. Day 47 (16th August 2024)
+- Write a Python program to find the sum of all elements in a set.
+- Write a program to find the average of all elements in a set.
 
 
 
