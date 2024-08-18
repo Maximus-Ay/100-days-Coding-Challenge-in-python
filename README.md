@@ -258,6 +258,10 @@ Day 25:
 - Write a Python program to find the sum of all elements in a set.
 - Write a program to find the average of all elements in a set.
 
+48. Day 48 (17th August 2024)
+- Write a Python program to find the intersection of two sets.
+- Write a program to find the union of two sets.
+
 
 
 
