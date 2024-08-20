@@ -270,6 +270,11 @@ Day 25:
 - Write a Python program to check if a set is a subset of another set.
 - Write a program to check if a set is a superset of another set.
 
+51. Day 51 (20th August 2024)
+- Write a Python function to find the maximum of three numbers.
+- Write a function to sum all the numbers in a list.
+
+
 
 
 
