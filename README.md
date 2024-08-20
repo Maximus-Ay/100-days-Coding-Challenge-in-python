@@ -267,7 +267,8 @@ Day 25:
 - Write a program to find the symmetric difference between two sets.
 
 50. Day 50 (19th August 2024)
-
+104. Write a Python program to check if a set is a subset of another set.
+105. Write a program to check if a set is a superset of another set.
 
 
 
