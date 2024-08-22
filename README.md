@@ -274,6 +274,10 @@ Day 25:
 - Write a Python function to find the maximum of three numbers.
 - Write a function to sum all the numbers in a list.
 
+52. Day 52 (21st August 2024)
+- Write a Python function to multiply all the numbers in a list.
+- Write a function to reverse a string.
+
 
 
 
