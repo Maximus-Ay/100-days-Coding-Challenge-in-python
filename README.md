@@ -278,7 +278,9 @@ Day 25:
 - Write a Python function to multiply all the numbers in a list.
 - Write a function to reverse a string.
 
-
+53. Day 53 (22nd August 2024)
+- Write a Python function to check if a number is within a given range.
+- Write a function to count the number of upper and lower case letters in a string.
 
 
 
