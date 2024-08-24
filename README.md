@@ -282,6 +282,9 @@ Day 25:
 - Write a Python function to check if a number is within a given range.
 - Write a function to count the number of upper and lower case letters in a string.
 
+54. Day 54 (23rd August 2024)
+- Write a Python function to find the factorial of a number.
+- Write a function to check if a number is a prime number.
 
 
 
