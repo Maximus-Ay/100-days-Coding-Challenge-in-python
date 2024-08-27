@@ -286,8 +286,13 @@ Day 25:
 - Write a Python function to find the factorial of a number.
 - Write a function to check if a number is a prime number.
 
+55. Day 55 (24th August 2024)
+- Write a Python function to check if a number is a perfect number.
+- Write a function to check if a string is a palindrome.
 
-
+56. Day 56 (25th August 2024)
+- Write a Python function to generate the Fibonacci sequence up to n terms.
+- Write a function to find the greatest common divisor (GCD) of two numbers.
 
 
 
