@@ -294,6 +294,10 @@ Day 25:
 - Write a Python function to generate the Fibonacci sequence up to n terms.
 - Write a function to find the greatest common divisor (GCD) of two numbers.
 
+57. Day 57 (26th August 2024)
+- Write a Python function to find the least common multiple (LCM) of two numbers.
+- Write a function to find the sum of digits of a number.
+
 
 
 
