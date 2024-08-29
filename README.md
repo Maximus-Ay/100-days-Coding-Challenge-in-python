@@ -306,6 +306,11 @@ Day 25:
 - Write a Python function to find the power of a number using recursion.
 - Write a function to convert a decimal number to binary.
 
+60. Day 60 (29th August 2024)
+- Write a Python function to convert a binary number to decimal.
+- Write a function to calculate the area of a circle given its radius.
+
+
 
 
 
