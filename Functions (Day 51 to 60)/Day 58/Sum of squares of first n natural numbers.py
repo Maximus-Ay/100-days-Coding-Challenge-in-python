@@ -10,4 +10,4 @@ def Sum_of_Squares(n):
     return sum
 
 n = int(input("Enter the value of n: "))
-print(f"The sum of the first {n} natural numbers is: {Sum_of_Squares(n)}")
+print(f"The sum of the squares of the first {n} natural numbers is: {Sum_of_Squares(n)}")
