@@ -298,6 +298,10 @@ Day 25:
 - Write a Python function to find the least common multiple (LCM) of two numbers.
 - Write a function to find the sum of digits of a number.
 
+58. Day 58 (27th August 2024)
+- Write a Python function to find the sum of squares of the first n natural numbers.
+- Write a function to find the sum of cubes of the first n natural numbers.
+
 
 
 
