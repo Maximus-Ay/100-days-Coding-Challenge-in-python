@@ -302,6 +302,11 @@ Day 25:
 - Write a Python function to find the sum of squares of the first n natural numbers.
 - Write a function to find the sum of cubes of the first n natural numbers.
 
+59. Day 59 (28th August 2024)
+- Write a Python function to find the power of a number using recursion.
+- Write a function to convert a decimal number to binary.
+
+
 
 
 
