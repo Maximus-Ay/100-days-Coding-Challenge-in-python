@@ -310,6 +310,11 @@ Day 25:
 - Write a Python function to convert a binary number to decimal.
 - Write a function to calculate the area of a circle given its radius.
 
+61. Day 61 (30th August 2024)
+- Write a Python program to read a text file and print its content.
+- Write a program to read the first n lines of a text file.
+
+
 
 
 
