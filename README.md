@@ -314,8 +314,9 @@ Day 25:
 - Write a Python program to read a text file and print its content.
 - Write a program to read the first n lines of a text file.
 
-
-
+62. Day 62 (31st August 2024)
+- Write a Python program to read the last n lines of a text file.
+- Write a program to count the number of lines in a text file.
 
 
 
