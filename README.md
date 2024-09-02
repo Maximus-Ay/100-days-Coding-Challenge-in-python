@@ -318,9 +318,14 @@ Day 25:
 - Write a Python program to read the last n lines of a text file.
 - Write a program to count the number of lines in a text file.
 
-63. Day 63(1st September 2024)
+63. Day 63 (1st September 2024)
 - Write a Python program to count the number of words in a text file.
 - Write a program to count the number of characters in a text file.
+
+64. Day 64 (2nd September 2024)
+- Write a Python program to find the frequency of each word in a text file.
+- Write a program to read a file line by line and store it into a list.
+
 
 
 
