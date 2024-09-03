@@ -326,6 +326,10 @@ Day 25:
 - Write a Python program to find the frequency of each word in a text file.
 - Write a program to read a file line by line and store it into a list.
 
+65. Day 65 (3rd September 2024)
+- Write a Python program to write a list to a text file.
+- Write a program to copy the contents of one file to another.
+
 
 
 
