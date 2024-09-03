@@ -1,7 +1,5 @@
-Hello, This is the 
-test Text file
-we are going to use
-for the file handling stuff
-SO you better use it
-and be serious with it 
-as much as you can.
+Hello my name 
+is additional content
+I am some random
+additional content added
+into the test Text file
