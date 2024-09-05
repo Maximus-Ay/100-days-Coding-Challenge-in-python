@@ -3,7 +3,9 @@
 '''
 
 def Read_File_Return_Values(fileName):
-    pass
+    try:
+        with open(fileName, "r") as file:
+            
 
 
 file1 = "C:\\Users\\Max The Developer\\Documents\\GitHub\\100-days-Coding-Challenge-with-python\\File Handling (61 - 70)\\TestTextFile.txt"
