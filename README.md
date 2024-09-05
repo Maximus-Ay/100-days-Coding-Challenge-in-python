@@ -330,6 +330,10 @@ Day 25:
 - Write a Python program to write a list to a text file.
 - Write a program to copy the contents of one file to another.
 
+66. Day 66 (4th September 2024)
+- Write a Python program to combine each line from the first file with the corresponding line in the second file.
+- Write a program to read a file and print all the numbers present in it.
+
 
 
 
