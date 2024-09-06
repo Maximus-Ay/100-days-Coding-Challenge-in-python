@@ -334,6 +334,10 @@ Day 25:
 - Write a Python program to combine each line from the first file with the corresponding line in the second file.
 - Write a program to read a file and print all the numbers present in it.
 
+67. Day 67 (5th September 2024)
+- Write a Python program to read a file and replace a specific word with another word.
+- Write a program to read a file and capitalize the first letter of every word.
+
 
 
 
