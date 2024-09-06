@@ -1,5 +1,5 @@
 Hello my name 12
-is additional content 34
+is extra content 34
 I am some random
-additional content added
+extra content added
 into the test Text file 100
