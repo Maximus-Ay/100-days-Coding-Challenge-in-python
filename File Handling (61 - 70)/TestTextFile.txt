@@ -1,5 +1,1 @@
-Hello my name 12
-is extra content 34
-I am some random
-extra content added
-into the test Text file 100
+HelloMyName12IsExtraContent34IAmSomeRandomExtraContentAddedIntoTheTestTextFile100
