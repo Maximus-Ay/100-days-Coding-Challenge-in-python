@@ -338,6 +338,10 @@ Day 25:
 - Write a Python program to read a file and replace a specific word with another word.
 - Write a program to read a file and capitalize the first letter of every word.
 
+68. Day 68 (6th September 2024)
+- Write a Python program to read a file and print its content in reverse order.
+- Write a program to read a file and remove all the blank lines.
+
 
 
 
