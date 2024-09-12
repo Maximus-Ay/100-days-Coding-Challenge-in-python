@@ -342,6 +342,28 @@ Day 25:
 - Write a Python program to read a file and print its content in reverse order.
 - Write a program to read a file and remove all the blank lines.
 
+69. Day 69 (7th September 2024)
+- Write a Python program to read a file and append text to it.
+- Write a program to read a file and count the occurrences of a specific word.
+
+70. Day 70 (8th September 2024)
+- Write a Python program to read a CSV file and print its content.
+- Write a program to write data to a CSV file.
+
+71. Day 71 (9th September 2024)
+- Write a Python class to represent a Rectangle with methods to calculate its area and perimeter.
+- Write a class to represent a Circle with methods to calculate its area and circumference.
+
+72. Day 72 (10th September 2024)
+- Write a Python class to represent a Student with attributes like name, age, and grade, and methods to display their details.
+- Write a class to represent a Bank Account with methods to deposit, withdraw, and check balance.
+
+73. Day 73 (11th September 2024)
+- Write a Python class to represent a Book with attributes like title, author, and ISBN, and methods to display book details.
+- Write a class to represent a Library with methods to add, remove, and search for books.
+
+
+
 
 
 
