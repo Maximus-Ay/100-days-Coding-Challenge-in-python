@@ -1,1 +1,2 @@
-HelloMyName12IsExtraContent34IAmSomeRandomExtraContentAddedIntoTheTestTextFile100
+HelloMyName12IsExtraContent34IAmSomeRandomExtraContentAddedIntoTheTestTextFile100hello
+bro i'm the second text
