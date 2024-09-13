@@ -362,6 +362,10 @@ Day 25:
 - Write a Python class to represent a Book with attributes like title, author, and ISBN, and methods to display book details.
 - Write a class to represent a Library with methods to add, remove, and search for books.
 
+74. Day 74 (12th September 2024)
+- Write a Python class to represent a Point in 2D space with methods to calculate the distance from another point.
+- Write a class to represent a Line with methods to calculate its length.
+
 
 
 
