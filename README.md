@@ -366,6 +366,10 @@ Day 25:
 - Write a Python class to represent a Point in 2D space with methods to calculate the distance from another point.
 - Write a class to represent a Line with methods to calculate its length.
 
+75. Day 75 (13th September 2024)
+- Write a Python class to represent a Car with attributes like make, model, and year, and methods to start and stop the car.
+- Write a class to represent a Person with attributes like name and age, and methods to display their details.
+
 
 
 
