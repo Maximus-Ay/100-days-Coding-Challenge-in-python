@@ -374,6 +374,11 @@ Day 25:
 - Write a Python class to represent an Employee with attributes like name, ID, and salary, and methods to display their details and calculate annual salary.
 - Write a class to represent a Manager, which inherits from the Employee class and includes an additional attribute for department.
 
+77. Day 77 (15th September 2024)
+- Write a Python class to represent a Shape with methods to calculate area and perimeter. Create subclasses for specific shapes like Rectangle, Circle, and Triangle.
+- Write a class to represent a Complex Number with methods to perform addition, subtraction, multiplication, and division.
+
+
 
 
 
