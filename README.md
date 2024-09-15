@@ -370,6 +370,10 @@ Day 25:
 - Write a Python class to represent a Car with attributes like make, model, and year, and methods to start and stop the car.
 - Write a class to represent a Person with attributes like name and age, and methods to display their details.
 
+76. Day 76 (14th September 2024)
+- Write a Python class to represent an Employee with attributes like name, ID, and salary, and methods to display their details and calculate annual salary.
+- Write a class to represent a Manager, which inherits from the Employee class and includes an additional attribute for department.
+
 
 
 
