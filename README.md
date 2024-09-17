@@ -378,6 +378,10 @@ Day 25:
 - Write a Python class to represent a Shape with methods to calculate area and perimeter. Create subclasses for specific shapes like Rectangle, Circle, and Triangle.
 - Write a class to represent a Complex Number with methods to perform addition, subtraction, multiplication, and division.
 
+78. Day 78 (16th September 2024)
+- Write a Python class to represent a Polynomial with methods to add, subtract, and multiply polynomials.
+- Write a class to represent a Matrix with methods to add, subtract, and multiply matrices.
+
 
 
 
