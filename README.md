@@ -382,7 +382,10 @@ Day 25:
 - Write a Python class to represent a Polynomial with methods to add, subtract, and multiply polynomials.
 - Write a class to represent a Matrix with methods to add, subtract, and multiply matrices.
 
-
+79. Day 79 (17th September 2024)
+- Write a Python class to represent a Queue with methods to enqueue, dequeue, and check if the queue is empty.
+- Write a class to represent a Stack with methods to push, pop, and check if the stack is empty.
+ 
 
 
 
