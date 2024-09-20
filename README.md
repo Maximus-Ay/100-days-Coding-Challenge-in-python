@@ -394,6 +394,9 @@ Day 25:
 - Write a Python program to create a simple calculator using functions.
 - Write a program to create a simple address book using a dictionary. 
 
+82. Day 82 (20th September 2024)
+- Write a Python program to create a contact book using a class.
+- Write a program to create a simple shopping cart using lists and functions.
 
 
 
