@@ -386,9 +386,14 @@ Day 25:
 - Write a Python class to represent a Queue with methods to enqueue, dequeue, and check if the queue is empty.
 - Write a class to represent a Stack with methods to push, pop, and check if the stack is empty.
  
- 80. Day 80 (18th September 2024)
+80. Day 80 (18th September 2024)
  - Write a Python class to represent a Binary Tree with methods for pre-order, in-order, and post-order traversal.
 - Write a class to represent a Graph with methods to add vertices and edges, and perform BFS and DFS traversals.
+
+81. Day 81 (19th September 2024)
+- Write a Python program to create a simple calculator using functions.
+- Write a program to create a simple address book using a dictionary. 
+
 
 
 
