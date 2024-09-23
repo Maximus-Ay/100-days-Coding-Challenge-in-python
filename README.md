@@ -402,6 +402,10 @@ Day 25:
 - Write a Python program to create a simple to-do list using a class and file handling.
 - Write a program to create a phone book using dictionaries and functions.
 
+84. Day 84 (22nd September 2024)
+- Write a Python program to create a class that simulates a dice roll and returns a random number between 1 and 6.
+- Write a program to create a class that models a simple bank account and includes methods for deposit, withdrawal, and balance inquiry.
+
 
 
 
