@@ -398,6 +398,10 @@ Day 25:
 - Write a Python program to create a contact book using a class.
 - Write a program to create a simple shopping cart using lists and functions.
 
+83. Day 83 (21st September 2024)
+- Write a Python program to create a simple to-do list using a class and file handling.
+- Write a program to create a phone book using dictionaries and functions.
+
 
 
 
