@@ -406,6 +406,10 @@ Day 25:
 - Write a Python program to create a class that simulates a dice roll and returns a random number between 1 and 6.
 - Write a program to create a class that models a simple bank account and includes methods for deposit, withdrawal, and balance inquiry.
 
+85. Day 85 (23rd September 2024)
+- Write a Python program to create a class that represents a deck of cards. Include methods to shuffle the deck and draw a card.
+- Write a program to create a class that simulates a simple ATM machine with methods to check balance, deposit, and withdraw money.
+
 
 
 
