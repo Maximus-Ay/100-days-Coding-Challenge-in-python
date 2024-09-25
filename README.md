@@ -410,6 +410,11 @@ Day 25:
 - Write a Python program to create a class that represents a deck of cards. Include methods to shuffle the deck and draw a card.
 - Write a program to create a class that simulates a simple ATM machine with methods to check balance, deposit, and withdraw money.
 
+86. Day 86 (24th September 2024)
+- Write a Python program to create a simple text-based game using classes and functions.
+- Write a program to create a class that represents a library system with methods to add, remove, and lend books.
+
+
 
 
 
