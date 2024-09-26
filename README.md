@@ -414,6 +414,10 @@ Day 25:
 - Write a Python program to create a simple text-based game using classes and functions.
 - Write a program to create a class that represents a library system with methods to add, remove, and lend books.
 
+87. Day 87 (25th September 2024)
+- Write a Python program to create a class that models a student grading system.
+- Write a program to create a class that represents a restaurant menu with methods to add, remove, and display items.
+
 
 
 
