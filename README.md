@@ -422,6 +422,10 @@ Day 25:
 - Write a Python program to create a class that simulates a basic inventory management system.
 - Write a program to create a class that represents a movie rental system with methods to add, remove, and rent movies.
 
+89. Day 89 (27th September 2024)
+- Write a Python program to create a class that simulates a simple calculator with methods for addition, subtraction, multiplication, and division.
+- Write a program to create a class that represents a weather forecasting system with methods to add, remove, and display weather data.
+
 
 
 
