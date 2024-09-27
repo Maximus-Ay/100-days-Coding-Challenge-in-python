@@ -418,6 +418,10 @@ Day 25:
 - Write a Python program to create a class that models a student grading system.
 - Write a program to create a class that represents a restaurant menu with methods to add, remove, and display items.
 
+88. Day 88 (26th September 2024)
+- Write a Python program to create a class that simulates a basic inventory management system.
+- Write a program to create a class that represents a movie rental system with methods to add, remove, and rent movies.
+
 
 
 
