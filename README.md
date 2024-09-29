@@ -426,6 +426,10 @@ Day 25:
 - Write a Python program to create a class that simulates a simple calculator with methods for addition, subtraction, multiplication, and division.
 - Write a program to create a class that represents a weather forecasting system with methods to add, remove, and display weather data.
 
+90. Day 90 (28th September 2024)
+- Write a Python program to create a class that simulates a basic traffic light system with methods to change and display the current light.
+- Write a program to create a class that models a simple quiz system with methods to add, remove, and display questions.
+
 
 
 
