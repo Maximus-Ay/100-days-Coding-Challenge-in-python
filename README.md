@@ -430,6 +430,10 @@ Day 25:
 - Write a Python program to create a class that simulates a basic traffic light system with methods to change and display the current light.
 - Write a program to create a class that models a simple quiz system with methods to add, remove, and display questions.
 
+91. Day 91 (29th September 2024)
+- Write a Python program to create a class that represents a hotel booking system with methods to add, remove, and book rooms.
+- Write a program to create a class that simulates a basic ticket booking system with methods to add, remove, and book tickets.
+
 
 
 
