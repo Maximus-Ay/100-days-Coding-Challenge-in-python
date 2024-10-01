@@ -434,6 +434,10 @@ Day 25:
 - Write a Python program to create a class that represents a hotel booking system with methods to add, remove, and book rooms.
 - Write a program to create a class that simulates a basic ticket booking system with methods to add, remove, and book tickets.
 
+92. Day 92 (30th September 2024)
+- Write a Python program to create a class that represents a simple e-commerce system with methods to add, remove, and display products.
+- Write a program to create a class that models a basic school management system with methods to add, remove, and display students and teachers.
+
 
 
 
