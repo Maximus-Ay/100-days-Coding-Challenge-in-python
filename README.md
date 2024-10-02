@@ -438,6 +438,9 @@ Day 25:
 - Write a Python program to create a class that represents a simple e-commerce system with methods to add, remove, and display products.
 - Write a program to create a class that models a basic school management system with methods to add, remove, and display students and teachers.
 
+93. Day 93 (1st October 2024)
+- Write a Python program to create a class that simulates a basic employee management system with methods to add, remove, and display employees.
+- Write a program to create a class that represents a basic payroll system with methods to calculate and display salaries.
 
 
 
