@@ -446,6 +446,10 @@ Day 25:
 - Write a Python program to create a class that simulates a simple library management system with methods to issue, return, and display books.
 - Write a program to create a class that represents a simple chat system with methods to send, receive, and display messages.
 
+95. Day 95 (3rd October 2024)
+- Write a Python program to create a class that models a basic customer relationship management (CRM) system with methods to add, remove, and display customer information.
+- Write a program to create a class that simulates a simple online shopping system with methods to add, remove, and purchase items.
+
 
 
 
