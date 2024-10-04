@@ -451,8 +451,8 @@ Day 25:
 - Write a program to create a class that simulates a simple online shopping system with methods to add, remove, and purchase items.
 
 96. Day 96 (4th October 2024)
-- Write a Python program to create a class that simulates a simple library management system with methods to issue, return, and display books.
-- Write a program to create a class that represents a simple chat system with methods to send, receive, and display messages.
+- Write a Python program to create a class that represents a simple file encryption and decryption system.
+- Write a program to create a class that models a basic email system with methods to send, receive, and display emails.
 
 
 
