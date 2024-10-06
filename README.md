@@ -454,7 +454,9 @@ Day 25:
 - Write a Python program to create a class that represents a simple file encryption and decryption system.
 - Write a program to create a class that models a basic email system with methods to send, receive, and display emails.
 
-
+97. Day 97 (5th October 2024)
+- Write a Python program to create a class that simulates a basic bank transaction system with methods to transfer money between accounts.
+- Write a program to create a class that represents a basic flight booking system with methods to add, remove, and book flights.
 
 
 
