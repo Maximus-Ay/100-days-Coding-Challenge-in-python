@@ -462,7 +462,9 @@ Day 25:
 - Write a Python program to create a class that models a basic healthcare management system with methods to add, remove, and display patient information.
 - Write a program to create a class that simulates a simple car rental system with methods to add, remove, and rent cars.
 
-
+99. Day 99 (7th October 2024)
+- Write a Python program to create a class that represents a basic hotel reservation system with methods to add, remove, and reserve rooms.
+- Write a program to create a class that models a basic transportation management system with methods to add, remove, and display routes and schedules.
 
 
 
