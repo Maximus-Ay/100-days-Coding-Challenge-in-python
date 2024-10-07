@@ -458,6 +458,10 @@ Day 25:
 - Write a Python program to create a class that simulates a basic bank transaction system with methods to transfer money between accounts.
 - Write a program to create a class that represents a basic flight booking system with methods to add, remove, and book flights.
 
+98. Day 98 (6th October 2024)
+- Write a Python program to create a class that models a basic healthcare management system with methods to add, remove, and display patient information.
+- Write a program to create a class that simulates a simple car rental system with methods to add, remove, and rent cars.
+
 
 
 
