@@ -1,4 +1,4 @@
-u# 100 Days Coding Challenge in Python
+# 100 Days Coding Challenge in Python
 Welcome to my 100 Days Coding Challenge in Python repository! This repository contains a collection of Python exercises and projects that I completed over the course of 100 days. The goal of this challenge is to enhance my Python programming skills by solving a variety of problems and working on different aspects of Python development.
 
 # Repository Structure
@@ -466,7 +466,7 @@ Day 25:
 - Write a Python program to create a class that represents a basic hotel reservation system with methods to add, remove, and reserve rooms.
 - Write a program to create a class that models a basic transportation management system with methods to add, remove, and display routes and schedules.
 
-100. 
+100. Day 
 
 
 
