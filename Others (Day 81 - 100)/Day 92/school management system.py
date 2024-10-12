@@ -71,3 +71,46 @@ class SchoolManagementSystem:
             print(teacher)
             print("--------------------")
 
+# Example usage
+school_system = SchoolManagementSystem()
+
+while True:
+    print("\nSchool Management System")
+    print("1. Add student")
+    print("2. Remove student")
+    print("3. Display students")
+    print("4. Add teacher")
+    print("5. Remove teacher")
+    print("6. Display teachers")
+    print("7. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        student_id = input("Enter student ID: ")
+        name = input("Enter student name: ")
+        age = int(input("Enter student age: "))
+        address = input("Enter student address: ")
+        grade = input("Enter student grade: ")
+        school_system.add_student(student_id, name, age, address, grade)
+    elif choice == "2":
+        student_id = input("Enter student ID: ")
+        school_system.remove_student(student_id)
+    elif choice == "3":
+        school_system.display_students()
+    elif choice == "4":
+        teacher_id = input("Enter teacher ID: ")
+        name = input("Enter teacher name: ")
+        age = int(input("Enter teacher age: "))
+        address = input("Enter teacher address: ")
+        subject = input("Enter teacher subject: ")
+        school_system.add_teacher(teacher_id, name, age, address, subject)
+    elif choice == "5":
+        teacher_id = input("Enter teacher ID: ")
+        school_system.remove_teacher(teacher_id)
+    elif choice == "6":
+        school_system.display_teachers()
+    elif choice == "7":
+        break
+    else:
+        print("Invalid choice. Please try again.")
