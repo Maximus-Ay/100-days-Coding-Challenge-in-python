@@ -53,3 +53,42 @@ class ECommerceSystem:
             print(f"Product {product_id} not found")
 
 # Example usage
+ecommerce_system = ECommerceSystem()
+
+while True:
+    print("\nE-Commerce System")
+    print("1. Add product")
+    print("2. Remove product")
+    print("3. Display products")
+    print("4. Search product")
+    print("5. Update product")
+    print("6. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        product_id = input("Enter product ID: ")
+        name = input("Enter product name: ")
+        price = float(input("Enter product price: "))
+        description = input("Enter product description: ")
+        ecommerce_system.add_product(product_id, name, price, description)
+    elif choice == "2":
+        product_id = input("Enter product ID: ")
+        ecommerce_system.remove_product(product_id)
+    elif choice == "3":
+        ecommerce_system.display_products()
+    elif choice == "4":
+        product_id = input("Enter product ID: ")
+        ecommerce_system.search_product(product_id)
+    elif choice == "5":
+        product_id = input("Enter product ID: ")
+        name = input("Enter new product name (or leave blank): ")
+        price = input("Enter new product price (or leave blank): ")
+        description = input("Enter new product description (or leave blank): ")
+        name = name if name else None
+        price = float(price) if price else None
+        ecommerce_system.update_product(product_id, name, price, description)
+    elif choice == "6":
+        break
+    else:
+        print("Invalid choice. Please try again.")
