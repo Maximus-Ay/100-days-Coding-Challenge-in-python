@@ -51,3 +51,35 @@ class PayrollSystem:
         else:
             print(f"Employee {employee_id} not found")
 
+# Example usage
+payroll_system = PayrollSystem()
+
+while True:
+    print("\nPayroll System")
+    print("1. Add employee")
+    print("2. Remove employee")
+    print("3. Display salaries")
+    print("4. Search employee")
+    print("5. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        employee_id = input("Enter employee ID: ")
+        name = input("Enter employee name: ")
+        position = input("Enter position: ")
+        salary = float(input("Enter hourly salary: "))
+        hours_worked = float(input("Enter hours worked: "))
+        payroll_system.add_employee(employee_id, name, position, salary, hours_worked)
+    elif choice == "2":
+        employee_id = input("Enter employee ID: ")
+        payroll_system.remove_employee(employee_id)
+    elif choice == "3":
+        payroll_system.display_salaries()
+    elif choice == "4":
+        employee_id = input("Enter employee ID: ")
+        payroll_system.search_employee(employee_id)
+    elif choice == "5":
+        break
+    else:
+        print("Invalid choice. Please try again.")
