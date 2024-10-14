@@ -73,3 +73,52 @@ class OnlineShoppingSystem:
         self.shopping_cart.items.clear()
         self.shopping_cart.total = 0
         print("Purchase successful")
+
+
+# Example usage
+shopping_system = OnlineShoppingSystem()
+
+while True:
+    print("\nOnline Shopping System")
+    print("1. Add product")
+    print("2. Remove product")
+    print("3. Display products")
+    print("4. Add item to cart")
+    print("5. Remove item from cart")
+    print("6. View cart")
+    print("7. Purchase items")
+    print("8. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        product_id = input("Enter product ID: ")
+        name = input("Enter product name: ")
+        price = float(input("Enter product price: "))
+        quantity = int(input("Enter product quantity: "))
+        shopping_system.add_product(product_id, name, price, quantity)
+    elif choice == "2":
+        product_id = input("Enter product ID: ")
+        shopping_system.remove_product(product_id)
+    elif choice == "3":
+        shopping_system.display_products()
+    elif choice == "4":
+        product_id = input("Enter product ID: ")
+        quantity = int(input("Enter quantity: "))
+        if product_id in shopping_system.products:
+            product = shopping_system.products[product_id]
+            product.quantity = quantity
+            shopping_system.shopping_cart.add_item(product)
+        else:
+            print(f"Product {product_id} not found")
+    elif choice == "5":
+        product_id = input("Enter product ID: ")
+        shopping_system.shopping_cart.remove_item(product_id)
+    elif choice == "6":
+        shopping_system.shopping_cart.view_cart()
+    elif choice == "7":
+        shopping_system.purchase_items()
+    elif choice == "8":
+        break
+    else:
+        print("Invalid choice. Please try again.")
