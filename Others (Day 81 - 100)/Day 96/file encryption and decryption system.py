@@ -74,3 +74,21 @@ file_system.encrypt_file(input_file, encrypted_file)
 
 # Decrypt file
 file_system.decrypt_file(encrypted_file, decrypted_file)
+
+'''
+This program defines a class:
+
+1. FileEncryptionSystem: Represents a file encryption and decryption system using AES encryption.
+
+Note: This code requires the cryptography library, which can be installed using pip:
+
+
+bash
+pip install cryptography
+
+
+The example usage demonstrates file encryption and decryption.
+
+Feel free to modify or extend this code as needed!
+
+'''
