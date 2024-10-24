@@ -466,6 +466,7 @@ Day 25:
 - Write a Python program to create a class that represents a basic hotel reservation system with methods to add, remove, and reserve rooms.
 - Write a program to create a class that models a basic transportation management system with methods to add, remove, and display routes and schedules.
 
+100. Day 100 (8th October 2024)
 
 
 
